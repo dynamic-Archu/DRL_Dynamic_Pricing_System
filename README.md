@@ -2,6 +2,8 @@
 DYNAMIC PRICING SYSTEM FOR RETAIL STORES USING DEEP REINFORCEMENT LEARNING
 
 1. ABSTRACT
+
+
 This project presents the development of a Dynamic Pricing System for Retail Stores using Deep 
 Reinforcement Learning (DRL). In the fast-moving consumer goods (FMCG) sector, especially in 
 a dynamic market like India, maintaining profitability while staying competitive is a challenge. 
